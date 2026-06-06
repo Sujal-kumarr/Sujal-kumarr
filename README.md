@@ -52,7 +52,19 @@
 
 ---
 
-### 📫 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: [suja-kumar]https://www.linkedin.com/in/sujal-kumar-6642bb271/)
-- Email: sujalkumar8267@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujal-kumar-6642bb271/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sujal%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:sujalkumar8267@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
