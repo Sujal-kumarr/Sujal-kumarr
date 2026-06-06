@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sujal%20Kumar&fontAlign=50&fontAlignY=40" />
+</p>
 <h1 align="center">Hi 👋, I'm Sujal</h1>
 
 <p align="center">
