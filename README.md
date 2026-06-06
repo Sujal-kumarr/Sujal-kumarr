@@ -30,11 +30,11 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=sujal-kumarr&show_icons=true)
 
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![](https://streak-stats.demolab.com?user=sujal-kumarr)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-kumarr&layout=compact)
 
 ---
 
